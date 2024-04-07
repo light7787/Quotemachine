@@ -1,6 +1,6 @@
 import React, { useEffect,useState } from "react";
 import './App.css';
-import { Button, Container, Row, Col } from 'react-bootstrap';
+import { Button } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const QuoteGenterator = () =>{
